@@ -14,15 +14,16 @@ not all data required for reproducing the results can be shared.
 
 ## Reference
 
-If you use any of the code or data in this repository, please cite [the chapter](https://doi.org/10.17885/heiup.1157.c19373):
+If you use any of the code or data in this repository, please cite
+[the chapter](https://doi.org/10.17885/heiup.1157.c19373):
 
 ```bibtex
 @incollection{vancranenburgh2024strongweak,
-    author={van Cranenburgh, Andreas},
+    author={van Cranenburgh, Andreas}, year={2024},
     title={Dutch Strong and Weak Pronouns as a Stylistic Marker of Literariness},
-    year={2024}, booktitle={Digital Stylistics in Romance Studies and Beyond}, pages={217--234},
-	publisher={Heidelberg University Publishing}, address={Heidelberg},
-	editor={Hesselbach, Robert, et al.}
+    booktitle={Digital Stylistics in Romance Studies and Beyond},
+    pages={217--234}, editor={Hesselbach, Robert, et al.},
+    publisher={Heidelberg University Publishing}, address={Heidelberg},
     url={https://doi.org/10.17885/heiup.1157.c19373},
 }
 ```
